@@ -33,14 +33,20 @@ PROPIEDADES
 `eventos`
 
 Colección de strings con la secuencia de eventos que han sucedido a lo largo del día.
-pulpo: indica si Mariano se ha convertido en pulpo ese día (verdadero o falso).
+
+`pulpo` 
+
+indica si Mariano se ha convertido en pulpo ese día (verdadero o falso).
 
 MÉTODOS
 
 `contieneEvento(evento, eventos)`
 
 Averigua si el evento que especificamos está en la lista de los eventos que han ocurrido ese día.
-`mostrarRegistro()` muestra por consola un registro, es decir, qué hizo Mariano ese día y si se ha convertido en pulpo.
+
+`mostrarRegistro()` 
+
+muestra por consola un registro, es decir, qué hizo Mariano ese día y si se ha convertido en pulpo.
 
 Añade aquellos métodos que estimes oportunos para manejar el ADT o tipo de dato abstracto de la clase. 
 
