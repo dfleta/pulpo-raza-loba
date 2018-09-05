@@ -135,12 +135,7 @@ Si representas esta tabla en una matriz, obtienes los siguientes índices (posic
 
 phi φ se calcula con la siguiente fórmula, donde n se refiere a los valores que encontramos en cada posición de la matriz (76, 9, 4, 1) y los subíndices son las posiciones de la matriz:
 
-![phi](https://drive.google.com/open?id=1iLGLkRk65sbM3P7Fzfwgta1Y3ikHT3aI "Phi")
-
-Si tienes problemas para visualizar la fórmula, puedes encontrarla aquí:
-https://drive.google.com/file/d/1iLGLkRk65sbM3P7Fzfwgta1Y3ikHT3aI/view?usp=sharing
-
-
+![phi](https://github.com/dfleta/pulpo-raza-loba/blob/master/phi.png "Phi")
 
 Así, la notación `n01` indica el número de medidas donde la primera variable medida -se ha convertido en pulpo o no- es falsa (0) y la segunda medida -ha comido pizza- es verdadero (1). En este ejemplo, `n01` es 9. De igual modo, `n10` es 4, `n00` es 76 y `n11` es 1.
 
